@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercícios Praticando </title>
+</head>
+<body>
+
+    <h1>Exercícios Praticando</h1>
+    
+    <hr>
+    <h2>Lista 1 - Carros</h2>
+    <ul type="square">
+        <li>Carros Antigos
+            <ul type="disc">
+                <li>Fusca</li>
+                <li>Brasília</li>
+                <li>Opala</li>
+            </ul>
+        </li>
+        <li>Carros Atuais
+            <ul type="disc">
+                <li>Onix</li>
+                <li>Honda HR-V</li>
+                <li>Jeep</li>
+                <li>Fiat Argo</li>
+            </ul>
+        </li>
+    </ul>
+
+    <hr>
+    <h2>Lista 2 - Motos</h2>
+    <ol type="1">
+        <li>Motos Antigas
+            <ol type="a">
+                <li>Vespa</li>
+                <li>Lambreta</li>
+                <li>Mobilite</li>
+            </ol>
+        </li>
+        <li>Motos Atuais
+            <ol type="a" start="4">
+                <li>CG 160 Titan</li>
+                <li>Biz 110i</li>
+                <li>CB 300F Twister</li>
+                <li>CBR 650R</li>
+                <li>CBR 1000R Black Edition</li>
+            </ol>
+        </li>
+    </ol>
+
+    <hr>
+    <h2>Lista 3 - Jogos</h2>
+    <ol type = "1">
+        <li>Jogos Favoritos do NES
+            <ul type="square">
+                <li>Mário Bros
+                    <ul type="disc">
+                        <li>Mário Bros 3</li>
+                        <li>Mário: Lost Levels</li>
+                    </ul>
+                </li>
+                <li>Ninja Gaiden</li>
+            </ul>
+        </li>
+        
+        <li>Jogos Favoritos do SNES
+            <ul type="square">
+                <li>Mário</li>
+                <li>Donkey Kong</li>
+            </ul>
+        </li>
+        
+        <li>Jogos Favoritos do PlayStation
+            <ul type="square">
+                <li>Final Fantasy</li>
+                <li>Castlevania</li>
+            </ul>
+        </li>
+    </ol>
+
+</body>
+</html>
