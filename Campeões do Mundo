@@ -1,1 +1,131 @@
 # Projetinhos-Html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Copa do Mundo</title>
+</head>
+<body>
+
+    <h1>Tudo Sobre a Copa do Mundo</h1>
+    <p>Um resumo sobre a história, seleções, sedes e campeões do maior torneio de futebol do planeta.</p>
+
+    <hr>
+
+    <h2>História da Copa</h2>
+    <p>A Copa do Mundo foi criada pelo francês Jules Rimet e teve sua primeira edição em 1930, no Uruguai. O país anfitrião (Uruguai) foi o grande campeão daquela vez. Desde então, o torneio acontece de 4 em 4 anos, tendo sido interrompido apenas durante a Segunda Guerra Mundial.</p>
+
+    <hr>
+
+    <h2>Como funcionam as "Divisões"</h2>
+    <p>Na Copa do Mundo não existem divisões como Série A ou Série B dos campeonatos de clubes. Em vez disso, o torneio funciona assim:</p>
+    <ul>
+        <li><strong>Eliminatórias:</strong><mark>Os times jogam contra os vizinhos do seu próprio continente para tentar uma vaga. Só os melhores se classificam para a Copa.</mark></li>
+        <li><strong>Potes do Sorteio:</strong><mark>Quando chegam na Copa, as seleções são divididas em Potes (do 1 ao 4) de acordo com sua força no ranking da FIFA, para garantir que os grupos fiquem equilibrados.</mark></li>
+    </ul>
+
+    <hr>
+
+    <h2>Próximos Países-Sede e Recentes</h2>
+    <p>Abaixo estão os países que abrigaram ou vão abrigar o torneio:</p>
+    <ul>
+        <li><ins>2014: Brasil</ins></li>
+        <li><ins>2018: Rússia</ins></li>
+        <li><ins>2022: Catar</ins></li>
+        <li><ins>2026: Canadá, Estados Unidos e México</ins></li>
+        <li><del>2030: Espanha, Portugal e Marrocos</del></li>
+        <li><del>2034: Arábia Saudita</del></li>
+    </ul>
+
+    <hr>
+
+    <h2><small>Campeões das Últimas 10 Copas</small></h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Ano</th>
+                <th>País Sede</th>
+                <th>Campeão</th>
+                <th>Vice-Campeão</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2022</td>
+                <td>Catar</td>
+                <td>Argentina</td>
+                <td>França</td>
+            </tr>
+            <tr>
+                <td>2018</td>
+                <td>Rússia</td>
+                <td>França</td>
+                <td>Croácia</td>
+            </tr>
+            <tr>
+                <td>2014</td>
+                <td>Brasil</td>
+                <td>Alemanha</td>
+                <td>Argentina</td>
+            </tr>
+            <tr>
+                <td>2010</td>
+                <td>África do Sul</td>
+                <td>Espanha</td>
+                <td>Holanda</td>
+            </tr>
+            <tr>
+                <td>2006</td>
+                <td>Alemanha</td>
+                <td>Itália</td>
+                <td>França</td>
+            </tr>
+            <tr>
+                <td>2002</td>
+                <td>Coreia / Japão</td>
+                <td>Brasil</td>
+                <td>Alemanha</td>
+            </tr>
+            <tr>
+                <td>1998</td>
+                <td>França</td>
+                <td>França</td>
+                <td>Brasil</td>
+            </tr>
+            <tr>
+                <td>1994</td>
+                <td>Estados Unidos</td>
+                <td>Brasil</td>
+                <td>Itália</td>
+            </tr>
+            <tr>
+                <td>1990</td>
+                <td>Itália</td>
+                <td>Alemanha</td>
+                <td>Argentina</td>
+            </tr>
+            <tr>
+                <td>1986</td>
+                <td>México</td>
+                <td>Argentina</td>
+                <td>Alemanha Ocidental</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr>
+
+    <h2>Curiosidades</h2>
+    <ul>
+        <li>O Brasil é o único país que jogou todas as Copas do Mundo e é o maior vencedor, com 5 títulos.</li>
+        <li>O maior artilheiro das Copas é o alemão Miroslav Klose, com 16 gols no total.</li>
+        <li>A maior goleada da história aconteceu em 1982: Hungria 10 x 1 El Salvador.</li>
+        <li>A primeira taça da Copa (Jules Rimet) foi roubada no Brasil em 1983 e nunca mais foi encontrada.</li>
+    </ul>
+
+    <hr>
+
+    <p><em>Página informativa sobre a Copa do Mundo - Futebol.</em></p>
+
+</body>
+</html>
